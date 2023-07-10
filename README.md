@@ -8,3 +8,5 @@ de Data Warehouse. Em terceiro lugar, revisamos várias estratégias de ER aplic
 escopo de futuras direções de pesquisa nessa área específica. 
 
 **Palavras-chaves:** *Engenharia de Requisitos, Data Warehouse*
+
+[![IBM Badge](https://img.shields.io/badge/Engenharia_de_Requisitos&nbsp;-Data_Warehouse-white?logoColor=white&color=black)](https://github.com/jorgenery/artigo-er-building-dw/blob/main/IC020_Artigo.pdf)
