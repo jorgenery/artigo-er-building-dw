@@ -8,4 +8,4 @@
 
 [![IBM Badge](https://img.shields.io/badge/Slides&nbsp;-Apresentação-white?logoColor=white&color=black)](https://github.com/jorgenery/artigo-er-building-dw/blob/main/IC020-Apresenta%C3%A7%C3%A3o-Artigo-Jorge%20Nery.pdf)
 
-[![IBM Badge](https://img.shields.io/badge/Artigos&nbsp;-Revisados-white?logoColor=white&color=black)](https://github.com/jorgenery/artigo-er-building-dw/blob/main/IC020-Apresenta%C3%A7%C3%A3o-Artigo-Jorge%20Nery.pdf](https://github.com/jorgenery/artigo-er-building-dw/blob/main/Planilhas/IC020-Artigos%20Selecionados-Resumo-Jorge%20Nery.csv)https://github.com/jorgenery/artigo-er-building-dw/blob/main/Planilhas/IC020-Artigos%20Selecionados-Resumo-Jorge%20Nery.csv)
+[![IBM Badge](https://img.shields.io/badge/Artigos&nbsp;-Revisados-white?logoColor=white&color=black)](https://github.com/jorgenery/artigo-er-building-dw/blob/main/Planilhas/IC020-Artigos%20Selecionados-Resumo-Jorge%20Nery.csv)
